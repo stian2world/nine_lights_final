@@ -1,5 +1,5 @@
 Explore my game:
-https://stian2helloworld.github.io/nine_lights_final/
+https://stian2world.github.io/nine_lights_final/
 
 ![Week 01_General_Brainstorm-min](https://github.com/user-attachments/assets/8809417f-861b-47f1-97b9-023d6eb5e43a)
 ![Week 02_Ritual_01-min](https://github.com/user-attachments/assets/30e84e20-479c-4eb3-ab5d-5f2c9909416d)
